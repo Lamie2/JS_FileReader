@@ -10,7 +10,7 @@ fileInput.addEventListener('change',function(){
             reader.onload = function(){  
                 img.setAttribute('src',reader.result);
 
-                document.body.appendChild(img);
+                document.getElementById("prew").appendChild(img);
                 btn.style.display= 'block';
             }
     
