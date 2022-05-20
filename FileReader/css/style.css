@@ -14,6 +14,12 @@ img{
     color: red;
     display: block;
     margin-bottom: 10px;
-    
+    float: right;
+    margin-left: 0px;
+    z-index: 1000;
+}
 
+#prew{
+    display: block;
+    width: fit-content;
 }
