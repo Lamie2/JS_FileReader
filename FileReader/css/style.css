@@ -1,0 +1,19 @@
+img{
+    max-width: 100%;
+    width: 300px;
+    height: 200px;
+}
+
+.img-upload{
+    width: 150px;
+    margin: 0 auto;
+}
+
+#btn{
+    font-size: 20px;
+    color: red;
+    display: block;
+    margin-bottom: 10px;
+    
+
+}
